@@ -45,5 +45,6 @@
       "DROPDOWN"
     ],
     "output": "assets/react-toolbox"
-  }
+  },
+  "homepage": "https://jake-freeman.github.io/trivia-db-sandbox/"
 }
